@@ -9,57 +9,11 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47f556be-4230-44b8-a203-435e1ef951f1" name="Default" comment="准备开始集成im">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hximlibrary/libs/AMap_2DMap_V2.9.0_20160525.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hximlibrary/libs/AMap_Channel_Location_V1.4.0_20160708.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hximlibrary/libs/AMap_Search_V3.4.0_20160811.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hximlibrary/libs/MiPush_SDK_Client_3_2_2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hximlibrary/libs/arm64-v8a/libpush.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hximlibrary/libs/armeabi-v7a/libpush.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hximlibrary/libs/armeabi/libpush.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hximlibrary/libs/x86/libpush.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hximlibrary/src/main/asset/arm64-v8a/push_daemon" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hximlibrary/src/main/asset/armeabi-v7a/push_daemon" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hximlibrary/src/main/asset/armeabi/push_daemon" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hximlibrary/src/main/asset/x86/push_daemon" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/AMap_2DMap_V2_9_0_20160525.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/AMap_Channel_Location_V1_4_0_20160708.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/AMap_Search_V3_4_0_20160811.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/CallEngine_Agora.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/MiPush_SDK_Client_3_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Rong_CallLib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Rong_IMKit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Rong_IMLib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/agora_rtc_sdk.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/alipaySingle_20170510.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jrmfry_1_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CallKit/CallKit.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CallLib/CallLib.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMKit/IMKit.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMLib/IMLib.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RedPacket/RedPacket.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/brilliant/hxim/MyApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="47f556be-4230-44b8-a203-435e1ef951f1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hximlibrary/build.gradle" afterPath="$PROJECT_DIR$/hximlibrary/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hximlibrary/hximlibrary.iml" afterPath="$PROJECT_DIR$/hximlibrary/hximlibrary.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hximlibrary/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/hximlibrary/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hximlibrary/src/main/java/com/brilliant/hximlibrary/widget/BadgeActionProvider.java" afterPath="$PROJECT_DIR$/hximlibrary/src/main/java/com/brilliant/hximlibrary/widget/BadgeActionProvider.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hximlibrary/src/main/res/drawable/circle_red.xml" afterPath="$PROJECT_DIR$/hximlibrary/src/main/res/drawable/circle_red.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hximlibrary/src/main/res/layout/menu_badge_provider.xml" afterPath="$PROJECT_DIR$/hximlibrary/src/main/res/layout/menu_badge_provider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
     </list>
     <ignored path="HXIM.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -131,8 +85,8 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hximlibrary/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state relative-caret-position="63">
+              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -8128,7 +8082,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508056998149</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="集成完im部分，等待细节调试">
+      <created>1508065667897</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1508065667897</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -8180,7 +8141,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加完toolbar上面的红色提示" />
     <MESSAGE value="准备开始集成im" />
-    <option name="LAST_COMMIT_MESSAGE" value="准备开始集成im" />
+    <MESSAGE value="集成完im部分，等待细节调试" />
+    <option name="LAST_COMMIT_MESSAGE" value="集成完im部分，等待细节调试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -8402,8 +8364,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hximlibrary/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state relative-caret-position="63">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
           <folding />
         </state>
       </provider>
