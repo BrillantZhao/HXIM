@@ -13,6 +13,7 @@
         android:id="@+id/item_contact"
         android:icon="@mipmap/ic_favorite_more"
         android:title="通讯录"
+        app:actionProviderClass="com.brilliant.hximlibrary.widget.BadgeActionProvider"
         app:showAsAction="ifRoom" />
 
     <!-- 菜单折叠 展示 -->
