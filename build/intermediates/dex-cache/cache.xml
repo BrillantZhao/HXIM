@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/hximlibrary/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dfe8b77fd30c0ff38e72c42f281e8265ace052f2">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/classes_82ec60fc67e5b0993be24b047185c30b445cb15c.jar" />
+    </item>
+
+</items>
