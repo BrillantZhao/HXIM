@@ -3,12 +3,165 @@
 
     <item
         is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/RedPacket/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14b97feaa4a385fb07ebed5fd607c502c7043c61">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/classes_bcd1a5ae997ea1a8929d42ba00793faf21c2058c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/IMLib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df8646b1631cebab87fa4bb4795167eb54e3418a">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/classes_342b829697fb38561f5811f4ea18b300fdb7d820.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/CallLib/build/intermediates/bundles/default/libs/CallEngine_Agora.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9fa6cb9e7089806ccc7f40b25a2b5e73dea63849">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/CallEngine_Agora_ac8db0c51099b0412dee2a9aefc6ea54ab5c2a63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/hximlibrary/build/intermediates/bundles/default/libs/AMap_Channel_Location_V1.4.0_20160708.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f167a13b8e5596483810d067a028eb25563d0ead">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/AMap_Channel_Location_V1.4.0_20160708_d42cee2565ac87cb9758b52a32c0364cbd1f9ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/IMLib/build/intermediates/bundles/default/libs/Rong_IMLib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="01855f3ea5965311714bc82a5b8c27ec1fc345ae">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/Rong_IMLib_3eb74270089fca2d8371f8c08e60948e5c80e16c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/hximlibrary/build/intermediates/bundles/default/libs/AMap_2DMap_V2.9.0_20160525.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b25989a9a1a157a0cbc7ce4b480518e49dc8a6dd">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/AMap_2DMap_V2.9.0_20160525_301eb507d465fba205968aade582c1e9fde088f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/IMKit/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5a6173a559fbfb709b85f46aa4b13e100505577">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/classes_d9feed8142c3d4bd59a45db70ad0d44a0e171e7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/CallKit/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f759e40b444b43fe1240ea61da1cda8dd62564d6">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/classes_0aea92a38d9b14409b7086d01eeb23b87183bc5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/IMKit/build/intermediates/bundles/default/libs/Rong_IMKit.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="03e989f5eecf65d3ca649076910245e23e7ce4c4">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/Rong_IMKit_f75fb45834d0979344d1be63263f257bbaf0ef84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/CallLib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="07d56eebd61ef58661e2b70d5eb67779c3d0c713">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/classes_f2921996eda3c7364350c901d39c9aa04b05fbf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/CallLib/build/intermediates/bundles/default/libs/agora-rtc-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="845240d82e1851e05964aafc93fe80737238f29d">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/agora-rtc-sdk_e3adb239766ac7ae1b52cb7fce616cddb0ce91f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/zhaobrillant/HXIM/hximlibrary/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="2178231cd7bcb8322a4eb984f5b6aef03f1a08c2">
+        sha1="981325d981669c75ac6ae6f317899fe43caf0d14">
         <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/classes_82ec60fc67e5b0993be24b047185c30b445cb15c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/hximlibrary/build/intermediates/bundles/default/libs/AMap_Search_V3.4.0_20160811.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="39ecdbad83dc299c3f3bc1330d87db30f5826aed">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/AMap_Search_V3.4.0_20160811_3a8e12602a9677b16cd169da5038121cd9439242.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/hximlibrary/build/intermediates/bundles/default/libs/MiPush_SDK_Client_3_2_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="676a56d6a5cf55356e629ba015662aeef3fd1629">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/MiPush_SDK_Client_3_2_2_d8c2d6f0872242ec0048a8568c6919470557ccf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/CallLib/build/intermediates/bundles/default/libs/Rong_CallLib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ff776c52f571e87899fa3848bae781ec173a249">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/Rong_CallLib_203e401ecee22498f5865427ed260b5981991921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/RedPacket/build/intermediates/bundles/default/libs/alipaySingle-20170510.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b8e1e398d5f2f639780c33c3a4109b9cd2f942bd">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/alipaySingle-20170510_d436a2f44494f8f5b53fb546a9f65992a8721ae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaobrillant/HXIM/RedPacket/build/intermediates/bundles/default/libs/jrmfry-1.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4024679387722d19972018809bd23e9c5a1f6874">
+        <dex dex="/Users/zhaobrillant/HXIM/app/build/intermediates/pre-dexed/debug/jrmfry-1.4.2_977afd954575019789728a8d50a30246d5ce9c20.jar" />
     </item>
 
 </items>

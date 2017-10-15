@@ -10,6 +10,14 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        // 音视频通话组件 CallLib 仅支持 armeabi-v7a 和 x86 架构 CPU （组件功能），如果您使用了我们的音视频
+        // 通话功能，注意需要把 IMLib 和 PushLib 组件中其它 CPU 架构的 so 删除。或者您也可以在应用的 build.gradle
+        // 文件中增加如下配置来过滤 so
+        ndk {
+            abiFilters "armeabi-v7a", "x86"
+        }
+
     }
     buildTypes {
         release {

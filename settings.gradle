@@ -1,1 +1,1 @@
-include ':app', ':hximlibrary'
+include ':app', ':hximlibrary', ':IMLib', ':IMKit', ':CallKit', ':CallLib', ':RedPacket'
