@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.brilliant.hxim.MainActivity">
+    tools:context=".MainActivity">
 
     <android.support.v7.widget.Toolbar
         android:id="@+id/tool_bar_2"
@@ -17,5 +17,12 @@
         toolbar:titleTextColor="@color/white">
 
     </android.support.v7.widget.Toolbar>
+
+    <FrameLayout
+        android:id="@+id/main_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/tool_bar_2"
+        tools:context=".MainActivity" />
 
 </RelativeLayout>

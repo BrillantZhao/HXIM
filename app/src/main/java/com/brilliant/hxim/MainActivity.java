@@ -8,6 +8,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
+import com.brilliant.hximlibrary.MainFragment;
 import com.brilliant.hximlibrary.widget.BadgeActionProvider;
 
 public class MainActivity extends AppCompatActivity {
@@ -15,8 +16,10 @@ public class MainActivity extends AppCompatActivity {
     // 联系人点击的监听
     private static final int DELETE_WHAT = 0X01;
 
-    // Toolbar菜单中的购物车按钮。
+    // Toolbar菜单中的联系人按钮。
     private BadgeActionProvider mDeleteBadgeActionProvider;
+
+    private MainFragment mMainFragment;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         initToolbar2();
+        initFragment(savedInstanceState);
     }
 
     /**
@@ -64,6 +68,36 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
+     * 初始化fragmetn
+     *
+     * @param savedInstanceState
+     */
+    private void initFragment(Bundle savedInstanceState) {
+        if (savedInstanceState != null) {
+            mMainFragment = (MainFragment) getSupportFragmentManager()
+                    .getFragment(savedInstanceState, "MainFragment");
+        } else {
+            mMainFragment = MainFragment.newInstance();
+        }
+
+        getSupportFragmentManager().beginTransaction()
+                .replace(R.id.main_fragment, mMainFragment)
+                .commit();
+    }
+
+    /**
+     * 当活动被回收时，存储当前的状态。
+     *
+     * @param outState 状态数据。
+     */
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        // 存储 Fragment 的状态。
+        getSupportFragmentManager().putFragment(outState, "MainFragment", mMainFragment);
+    }
+
+    /**
      * Toolbar自定义菜单，点击监听。
      */
     private BadgeActionProvider.OnClickListener onClickListener = new BadgeActionProvider.OnClickListener() {
@@ -93,7 +127,7 @@ public class MainActivity extends AppCompatActivity {
             mDeleteBadgeActionProvider.setIcon(R.mipmap.ic_favorite_more);
             mDeleteBadgeActionProvider.setBadge(99);
         }
-    }
 
+    }
 
 }
